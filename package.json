@@ -1,0 +1,23 @@
+{
+  "name": "vue-finances-back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmunhozprog03/vue-finances-bacl.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmunhozprog03/vue-finances-bacl/issues"
+  },
+  "homepage": "https://github.com/cmunhozprog03/vue-finances-bacl#readme",
+  "dependencies": {
+    "prisma-client-lib": "1.28.3"
+  }
+}
