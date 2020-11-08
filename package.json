@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/cmunhozprog03/vue-finances-bacl#readme",
   "dependencies": {
+    "graphql-yoga": "1.17.4",
     "prisma-client-lib": "1.28.3"
   }
 }
